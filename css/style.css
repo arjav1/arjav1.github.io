@@ -130,15 +130,15 @@ a:focus{
 .media-left.media-middle i {
 	padding: 20px 30px 20px 0;
 	font-size: 30px;
-	color: rgb(47, 147, 123);
+	color: #1e86d6;
 
 }
 
 .media-body h4 {
 	margin-bottom: 20px;
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 700;
-	color: rgb(47, 147, 123);
+	color: #1e86d6;
 }
 
 #tf-portfolio{
@@ -148,7 +148,7 @@ a:focus{
 }
 
 .section-title hr{
-	border-color: rgb(47, 147, 123);
+	border-color: #1e86d6;
 	width: 60px;
 }
 
@@ -160,7 +160,7 @@ a.btn {
 }
 button.btn.btn-primary.my-btn,
 a.btn.btn-primary.my-btn {
-	background: #2F937B;
+	background: #1e86d6;
 	border-color: transparent;
 	border-radius: 0px;
 	border-width: 2px;
